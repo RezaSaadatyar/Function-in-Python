@@ -3,5 +3,6 @@
 
 ###### Example:
 def my_function():
-   -print("Hello")
+   
+   print("Hello")
 
